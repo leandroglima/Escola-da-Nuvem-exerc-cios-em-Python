@@ -1,0 +1,1 @@
+# Escola-da-Nuvem-exerc-cios-em-Python
